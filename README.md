@@ -2,6 +2,8 @@
 Authors: Katherin Jimenez, Evelyn Quintero Ochoa, Lilie Bingham   
 References: https://nullbeans.com/the-java-bean-validation-cheet-sheet/   
 
+Link to Demo Video: https://www.youtube.com/watch?v=OmUHwDq7Qpw&feature=youtu.be&ab_channel=katherinkay
+
 
 User Stories: 
 
