@@ -19,7 +19,6 @@ jobs:
         environment:
           MYSQL_ROOT_PASSWORD: password
           MYSQL_DATABASE: game_store
-          MYSQL_USER: root
           MYSQL_PASSWORD: password
     # Add steps to the job
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
